@@ -1,13 +1,12 @@
 version: '3.9'
 services:
-  ssh.cyrhades.com:
-    build: ssh
-  webssh.cyrhades.com:
-    build: webssh
+  ssh.cyrhades.fr:
+    build: ./.docker/ssh
+  webssh.cyrhades.fr:
+    build: ./.docker/webssh
     ports:
-    - "80:8888"
-  snake.cyrhades.com:
+      - ${PORT}:8888
+  snake.cyrhades.fr:
     image: anssi/fcsc2021-misc-snake:latest
-    read_only: true
     ports:
       - "4000:4000"

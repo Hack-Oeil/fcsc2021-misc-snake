@@ -12,7 +12,7 @@ Origine : [Snake](https://hackropole.fr/fr/challenges/misc/fcsc2021-misc-snake/)
 > http://localhost
 
 #### tentez 
-> nc snake.cyrhades.com:4000
+> nc snake.cyrhades.fr:4000
 
 
 -----------
