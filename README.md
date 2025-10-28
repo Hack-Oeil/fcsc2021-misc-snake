@@ -3,7 +3,7 @@
 L’apprentissage du langage Python est très utile en CTF. On vous demande ici de lire le fichier flag.txt.
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Snake](https://hackropole.fr/fr/challenges/misc/fcsc2021-misc-snake/)
 
